@@ -75,6 +75,17 @@ Ouvrez votre navigateur et accédez à l'URL suivante pour visualiser l'applicat
 http://127.0.0.1:8000/
 ```
 
+Collections Postman
+Les collections Postman pour tester les différentes API de ce projet sont disponibles dans le répertoire suivant : 
+(pour le premier projet avec bundle api plateforme) 
+```bash
+/my_rest_api/API PLATEFORME PRODUCT SYMFONY.postman_collection.json
+```
+Et tu trouves le deuxieme projet sans api le bundle api plateforme 
+```bash
+/api platforme symfony/API REST SYMFONY.postman_collection.json
+```
+Importez ces collections dans Postman pour faciliter les tests des endpoints.
 
 
 
